@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6772313-f07b-42f3-b21a-c5b63b5b2cfc" name="Default Changelist" comment="" />
+    <list default="true" id="c6772313-f07b-42f3-b21a-c5b63b5b2cfc" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kerm0U7PU2Ena5KTzAqqKNN3bK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,18 +65,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606072052599</updated>
-      <workItem from="1606072053682" duration="2237000" />
+      <workItem from="1606072053682" duration="4319000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1606082115943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606082115943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606073271144">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606073271144" />
+    <state width="1419" height="227" key="GridCell.Tab.0.bottom" timestamp="1606153050861">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="227" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606153050861" />
+    <state width="1419" height="227" key="GridCell.Tab.0.center" timestamp="1606153050859">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="227" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606153050859" />
+    <state width="1419" height="227" key="GridCell.Tab.0.left" timestamp="1606153050858">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="227" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606153050858" />
+    <state width="1419" height="227" key="GridCell.Tab.0.right" timestamp="1606153050860">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="227" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606153050860" />
+    <state x="305" y="184" key="Vcs.Push.Dialog.v2" timestamp="1606082135732">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="305" y="184" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606082135732" />
     <state x="385" y="211" width="670" height="675" key="run.anything.popup" timestamp="1606073300088">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
